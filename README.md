@@ -29,6 +29,6 @@ This data set has been independently compiled.
 
 ## License
 
-The contents of this repository is licensed under [CC BY 4.0 Attribution International](https://creativecommons.org/licenses/by/4.0/). The terms of the license are set out in [LICENSE.md].
+The contents of this repository is licensed under [CC BY 4.0 Attribution International](https://creativecommons.org/licenses/by/4.0/). The terms of the license are set out in [LICENSE.md](LICENSE.md).
 
-The Markdown formatted license is graciously provided by [@idleberg](https://github.com/idleberg), see [[https://github.com/idleberg/Creative-Commons-Markdown]] for more.
+The Markdown formatted license is graciously provided by [@idleberg](https://github.com/idleberg), see https://github.com/idleberg/Creative-Commons-Markdown for more.
