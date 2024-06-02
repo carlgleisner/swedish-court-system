@@ -1,0 +1,473 @@
+[
+  {
+    "id": "ALLINGSAS_GENERAL_DISTRICT_COURT",
+    "name": "Allingsås tingsrätt",
+    "short_name": "Allingsås TR",
+    "city": "Allingsås",
+    "email_address": "allingsas.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "ATTUNDA_GENERAL_DISTRICT_COURT",
+    "name": "Attunda tingsrätt",
+    "short_name": "Attunda TR",
+    "city": "Sollentuna",
+    "email_address": "attunda.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "BLEKINGE_GENERAL_DISTRICT_COURT",
+    "name": "Blekinge tingsrätt",
+    "short_name": "Blekinge TR",
+    "city": "Karlskrona",
+    "email_address": "blekinge.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "BORAS_GENERAL_DISTRICT_COURT",
+    "name": "Borås tingsrätt",
+    "short_name": "Borås TR",
+    "city": "Borås",
+    "email_address": "boras.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "EKSJO_GENERAL_DISTRICT_COURT",
+    "name": "Eksjö tingsrätt",
+    "short_name": "Eksjö TR",
+    "city": "Eksjö",
+    "email_address": "eksjo.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "ESKILSTUNA_GENERAL_DISTRICT_COURT",
+    "name": "Eskilstuna tingsrätt",
+    "short_name": "Eskilstuna TR",
+    "city": "Eskilstuna",
+    "email_address": "eskilstuna.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "FALU_GENERAL_DISTRICT_COURT",
+    "name": "Falu tingsrätt",
+    "short_name": "Falu TR",
+    "city": "Falun",
+    "email_address": "falu.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "GOTLANDS_GENERAL_DISTRICT_COURT",
+    "name": "Gotlands tingsrätt",
+    "short_name": "Gotlands TR",
+    "city": "Visby",
+    "email_address": "gotlands.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "GALLIVARE_GENERAL_DISTRICT_COURT",
+    "name": "Gällivare tingsrätt",
+    "short_name": "Gällivare TR",
+    "city": "Gällivare",
+    "email_address": "gallivare.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "GAVLE_GENERAL_DISTRICT_COURT",
+    "name": "Gävle tingsrätt",
+    "short_name": "Gävle TR",
+    "city": "Gävle",
+    "email_address": "gavle.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "GOTEBORGS_GENERAL_DISTRICT_COURT",
+    "name": "Göteborgs tingsrätt",
+    "short_name": "Göteborgs TR",
+    "city": "Göteborg",
+    "email_address": "goteborg.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "HALMSTADS_GENERAL_DISTRICT_COURT",
+    "name": "Halmstads tingsrätt",
+    "short_name": "Halmstads TR",
+    "city": "Halmstad",
+    "email_address": "halmstad.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "HAPARANDA_GENERAL_DISTRICT_COURT",
+    "name": "Haparanda tingsrätt",
+    "short_name": "Haparanda TR",
+    "city": "Haparanda",
+    "email_address": "haparanda.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "HELSINGBORGS_GENERAL_DISTRICT_COURT",
+    "name": "Helsingborgs tingsrätt",
+    "short_name": "Helsingborgs TR",
+    "city": "Helsingborg",
+    "email_address": "helsingborgs.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "HALSINGLANDS_GENERAL_DISTRICT_COURT",
+    "name": "Hälsinglands tingsrätt",
+    "short_name": "Hälsinglands TR",
+    "city": "Hudiksvall",
+    "email_address": "halsinglands.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "HASSLEHOLMS_GENERAL_DISTRICT_COURT",
+    "name": "Hässleholms tingsrätt",
+    "short_name": "Hässleholms TR",
+    "city": "Hässleholm",
+    "email_address": "hassleholms.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "JONKOPINGS_GENERAL_DISTRICT_COURT",
+    "name": "Jönköpings tingsrätt",
+    "short_name": "Jönköpings TR",
+    "city": "Jönköping",
+    "email_address": "jonkopings.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "KALMAR_GENERAL_DISTRICT_COURT",
+    "name": "Kalmar tingsrätt",
+    "short_name": "Kalmar TR",
+    "city": "Kalmar",
+    "email_address": "kalmar.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "KRISTIANSTADS_GENERAL_DISTRICT_COURT",
+    "name": "Kristianstads tingsrätt",
+    "short_name": "Kristianstads TR",
+    "city": "Kristanstad",
+    "email_address": "kristanstads.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "LINKOPINGS_GENERAL_DISTRICT_COURT",
+    "name": "Linköpings tingsrätt",
+    "short_name": "Linköpings TR",
+    "city": "Linköping",
+    "email_address": "linkopings.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+
+  {
+    "id": "LULEA_GENERAL_DISTRICT_COURT",
+    "name": "Luleå tingsrätt",
+    "short_name": "Luleå TR",
+    "city": "Luleå",
+    "email_address": "lulea.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "LUNDS_GENERAL_DISTRICT_COURT",
+    "name": "Lunds tingsrätt",
+    "short_name": "Lunds TR",
+    "city": "Lund",
+    "email_address": "lunds.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "LYCKSELE_GENERAL_DISTRICT_COURT",
+    "name": "Lycksele tingsrätt",
+    "short_name": "Lycksele TR",
+    "city": "Lycksele",
+    "email_address": "lycksele.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "MALMO_GENERAL_DISTRICT_COURT",
+    "name": "Malmö tingsrätt",
+    "short_name": "Malmö TR",
+    "city": "Malmö",
+    "email_address": "malmo.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "MORA_GENERAL_DISTRICT_COURT",
+    "name": "Mora tingsrätt",
+    "short_name": "Mora TR",
+    "city": "Mora",
+    "email_address": "mora.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "NACKA_GENERAL_DISTRICT_COURT",
+    "name": "Nacka tingsrätt",
+    "short_name": "Nacka TR",
+    "city": "Nacka",
+    "email_address": "nacka.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "NORRKOPINGS_GENERAL_DISTRICT_COURT",
+    "name": "Norrköpings tingsrätt",
+    "short_name": "Norrköpings TR",
+    "city": "Norrköping",
+    "email_address": "norrkoping.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "NORRTALJE_GENERAL_DISTRICT_COURT",
+    "name": "Norrtälje tingsrätt",
+    "short_name": "Norrtälje TR",
+    "city": "Norrtälje",
+    "email_address": "norrtalje.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "NYKOPINGS_GENERAL_DISTRICT_COURT",
+    "name": "Nyköpings tingsrätt",
+    "short_name": "Nyköpings TR",
+    "city": "Nyköping",
+    "email_address": "nykopings.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "SKARABORGS_GENERAL_DISTRICT_COURT",
+    "name": "Skaraborgs tingsrätt",
+    "short_name": "Skaraborgs TR",
+    "city": "Skövde",
+    "email_address": "skaraborgs.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "SKELLEFTEA_GENERAL_DISTRICT_COURT",
+    "name": "Skellefteå tingsrätt",
+    "short_name": "Skellefteå TR",
+    "city": "Skellefteå",
+    "email_address": "skelleftea.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "SOLNA_GENERAL_DISTRICT_COURT",
+    "name": "Solna tingsrätt",
+    "short_name": "Solna TR",
+    "city": "Solna",
+    "email_address": "solna.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "STOCKHOLMS_GENERAL_DISTRICT_COURT",
+    "name": "Stockholms tingsrätt",
+    "short_name": "Stockholms TR",
+    "city": "Stockholm",
+    "email_address": "stockholms.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "SUNDSVALLS_GENERAL_DISTRICT_COURT",
+    "name": "Sundsvalls tingsrätt",
+    "short_name": "Sundsvalls TR",
+    "city": "Sundsvall",
+    "email_address": "sundsvalls.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "SODERTALJE_GENERAL_DISTRICT_COURT",
+    "name": "Södertälje tingsrätt",
+    "short_name": "Södertälje TR",
+    "city": "Södertälje",
+    "email_address": "sodertalje.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "UDDEVALLA_GENERAL_DISTRICT_COURT",
+    "name": "Uddevalla tingsrätt",
+    "short_name": "Uddevalla TR",
+    "city": "Uddevalla",
+    "email_address": "uddevalla.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "UMEA_GENERAL_DISTRICT_COURT",
+    "name": "Umeå tingsrätt",
+    "short_name": "Umeå TR",
+    "city": "Umeå",
+    "email_address": "umea.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "UPPSALA_GENERAL_DISTRICT_COURT",
+    "name": "Uppsala tingsrätt",
+    "short_name": "Uppsala TR",
+    "city": "Uppsala",
+    "email_address": "uppsala.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "VARBERGS_GENERAL_DISTRICT_COURT",
+    "name": "Varbergs tingsrätt",
+    "short_name": "Varbergs TR",
+    "city": "Varberg",
+    "email_address": "varbergs.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "VARNERSBORGS_GENERAL_DISTRICT_COURT",
+    "name": "Vänersborgs tingsrätt",
+    "short_name": "Vänersborgs TR",
+    "city": "Vänersborg",
+    "email_address": "varnersborgs.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "VARMLANDS_GENERAL_DISTRICT_COURT",
+    "name": "Värmlands tingsrätt",
+    "short_name": "Värmlands TR",
+    "city": "Karlstad",
+    "email_address": "varmlands.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "VASTMANLANDS_GENERAL_DISTRICT_COURT",
+    "name": "Västmanlands tingsrätt",
+    "short_name": "Västmanlands TR",
+    "city": "Västerås",
+    "email_address": "vastmanlands.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "VAXJO_GENERAL_DISTRICT_COURT",
+    "name": "Växjö tingsrätt",
+    "short_name": "Växjö TR",
+    "city": "Växjö",
+    "email_address": "vaxjo.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "YSTADS_GENERAL_DISTRICT_COURT",
+    "name": "Ystads tingsrätt",
+    "short_name": "Ystads TR",
+    "city": "Ystad",
+    "email_address": "ystads.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "ANGERMANLANDS_GENERAL_DISTRICT_COURT",
+    "name": "Ångermanlands tingsrätt",
+    "short_name": "Ångermanlands TR",
+    "city": "Härnösand",
+    "email_address": "angermanlands.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "OREBRO_GENERAL_DISTRICT_COURT",
+    "name": "Örebro tingsrätt",
+    "short_name": "Örebro TR",
+    "city": "Örebro",
+    "email_address": "orebro.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  },
+  {
+    "id": "OSTERSUNDS_GENERAL_DISTRICT_COURT",
+    "name": "Östersunds tingsrätt",
+    "short_name": "Östersunds TR",
+    "city": "Östersund",
+    "email_address": "ostersunds.tingsratt@dom.se",
+    "instance_level": "lower",
+    "court_type": "general",
+    "special_tribunal": false
+  }
+]
